@@ -1,4 +1,4 @@
-👋 Hi, I’m @Darciso
+Olá, eu sou o Darciso
 
 <!---
 Darciso/Darciso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
